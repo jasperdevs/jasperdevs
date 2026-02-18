@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.ascii-art-generator.org/?text=JASPER&font=big&backgroundColor=202020&textColor=E6E6E6" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=1&pause=100000&color=E6E6E6&background=20202000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=+_++++++_+++++_+++++_++++++_++++++_++++;|+_+_++_+|+_+_++_+|+_+_++_+|+_+__+_+|+_+__;|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|;|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|+|;|_||_||_||_||_||_||_||_||_||_||_||_||_||_||_|" />
 </p>
 
 <p align="center">
