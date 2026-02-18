@@ -1,13 +1,6 @@
-<pre align="center">
-     _               _                      _           
-    (_)             | |                    | |          
-     _  __ _ ___ ___| |__   ___  _ __   ___| |__   ___  
-    | |/ _` / __/ __| '_ \ / _ \| '_ \ / __| '_ \ / _ \ 
-    | | (_| \__ \__ \ | | | (_) | | | | (__| | | |  __/ 
-    | |\__,_|___/___/_| |_|\___/|_| |_|\___|_| |_|\___| 
-   _/ |                                                   
-  |__/                                                    
-</pre>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=202020&height=120&section=header&text=JASPER&fontSize=60&fontColor=E6E6E6&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jasprcodess&label=views&color=202020&style=flat" />
