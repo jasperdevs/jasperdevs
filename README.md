@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=202020&height=120&section=header&text=JASPER&fontSize=60&fontColor=E6E6E6&animation=fadeIn" />
+  <img src="https://api.ascii-art-generator.org/?text=JASPER&font=big&backgroundColor=202020&textColor=E6E6E6" />
 </p>
 
 <p align="center">
